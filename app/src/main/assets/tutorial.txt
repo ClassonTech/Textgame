@@ -1,0 +1,208 @@
+##001
+BRRrrrRRrinng brRRiiinnng!!
+BRRrrrRRrinng brRRiiinnng!!
+BRRrrrRRrinng brRRiiinnng!!
+@<002 [Esnooze2]> <001 {Esnooze2} [Esnooze1]> <001 {Esnooze1}>
+Snooze
+@<003> 
+Off
+##002
+Is that the school wagon I hear!?
+Oh no I’m late for school!
+@<END tutorial.txt>
+Retry
+##003
+Yawn*
+Monday mornings are the worst!
+Why does it never feel like I got enough sleep,
+even with my nightly sleeping potions?
+@<004 {EchkedClndr}>
+Check Calender
+@<005 {EinspctInstrmt}>
+Inspect Musical Instrument
+@<006>
+Get out of bed
+##004 
+Oh that’s right…
+I was up all night thinking about decision day…
+*Sigh*
+I still have no clue what I’m going to do.
+@<004 {EchkedClndr}>
+Check Calender
+@<005 {EinspctInstrmt}>
+Inspect Musical Instrument
+@<006>
+Get out of bed
+##005
+I might have to leave you behind,
+if I want a stable job like my parents.
+How am I going to support a family playing you?
+@<004 {EchkedClndr}>
+Check Calender
+@<005 {EinspctInstrmt}>
+Inspect Musical Instrument
+@<006>
+Get out of bed
+##006
+Whelp, I better get up if I wanna
+catch the school wagon, I sure don’t
+wanna walk to school.
+@<007 [EinspctInstrmt, Ishtmusic] >
+Strum Instrument
+@<008 {EtakeInstrument, Iintrument}>
+Take Instrument
+@<010[EputOnPants]><009>
+Leave the Room
+@<011{EputOnPants, Ishtmusic}>
+Put on Pants
+##007
+One last tune, for old times sake?
+*Strums Tune* (guitar strings minigame?)
+@<007 [EinspctInstrmt, Ishtmusic] >
+Strum Instrument
+@<008 {EtakeInstrument, Iintrument}>
+Take Instrument
+@<010[EputOnPants]><009>
+Leave the Room
+@<011{EputOnPants, Ishtmusic}>
+Put on Pants
+##008
+Hmm, I’d feel much more secure if I had this with me
+@<007 [EinspctInstrmt, Ishtmusic] >
+Strum Instrument
+@<008 {EtakeInstrument, Iintrument}>
+Take Instrument
+@<010[EputOnPants]><009>
+Leave the Room
+@<011{EputOnPants, Ishtmusic}>
+Put on Pants
+##009
+I can’t leave the room without first putting on my pants!!!
+@<007 [EinspctInstrmt, Ishtmusic] >
+Strum Instrument
+@<008 {EtakeInstrument, Iintrument}>
+Take Instrument
+@<011[EputOnPants]><009>
+Leave the Room
+@<010{EputOnPants, Ishtmusic}>
+Put on Pants
+##011
+Hmmm what’s this?
+Sheet music in my pocket?
+Good thing I didn’t do the laundry last night,
+wouldn’t have wanted to lose this
+@<007 [EinspctInstrmt, Ishtmusic] >
+Strum Instrument
+@<008 {EtakeInstrument, Iintrument}>
+Take Instrument
+@<010[EputOnPants]><009>
+Leave the Room
+@<011{EputOnPants, Ishtmusic}>
+Put on Pants
+##010
+*grumble grumble* oh boy am I hungry! I hope there's breakfast waiting for me downstairs
+@<012>
+Lets Go!
+##012
+Walk down the stairs 
+Mom: Good morning, my child! I hope you had a good night’s sleep.
+Today’s a big day for you I know, but I didn’t have time to make you breakfast,
+me and your father have to go into town today.
+@<014>
+“Didn’t sleep at all.”
+##014
+Actually, mom, I’m really nervous about what’s going to happen today.
+I didn’t even get any sleep, and I have no idea what I’m gonna do
+with the rest of my life, yet in like, an hour I have to choose.
+Mom: well, don’t worry, just pick something you enjoy, and I’m sure you’ll be happy.
+Dad: Ha Ha Ha! I’m sure your choice will bring honor to our family,
+you’ve got my warrior  bloo-- Ow!! What was that for!?
+Mom: Like I said, just be happy! 
+@<015>
+Silence
+##015
+mmmm…
+Dad: Jeez, who pooped on his pancakes?
+Mom: Oh let him be! he has a big decision to make today.
+Mom: Dad and I have to leave now, but you should cook your own breakfast!
+Going hungry to a decision as big as this can’t be a good idea.
+@<016>
+Continue with Preparation
+##016
+Ok they’re gone now. Let’s see, what do I have to do to get ready for school
+@<017>
+Make Breakfast
+##017
+Ahh, let’s see what’s in the pantry. Mmmm these frostfall flakes look good…
+What!?
+There’s like, half a bowl left…
+Oh here’s some eggs, but that would require cooking…
+so much effort ughhh.
+@<018>
+Eat Cereal
+@<019>
+Cook Eggs
+##018
+*munch munch munch* Well that was…
+unsatisfying, anyways what next?
+@<021 {EeventToLeave11}>
+Grab Instrument
+@<022 {EeventToLeave12}>
+Pack Backpack
+##022
+Ahh my study materials, of course I need these, how
+would I be able to go to school without these?
+@<025 [EeventToLeave11]><023>
+Leave the house
+@<021>
+Grab Instrument
+##023
+Awww, I left my instrument at home, that’s a real drag…
+@<024>
+Grab Instrument
+##024
+Ha, wouldn’t wanna go anywhere without you eh?
+Just gotta put this shoulder strap here...and voilà!
+@<025>
+Leave the house
+##025
+Now I can finally leave!
+Wagon Driver: Good morning! I hope you had a good weekend,
+any plans for decision day?
+@<END chapter1.1.txt>
+Go to next chapter
+##END
+##021
+Ha, wouldn’t wanna go anywhere without you eh? Just gotta put this shoulder strap here...and voilà!
+@<025 [EeventToLeave12]><026>
+Leave the house
+@<027>
+Grab Backpack
+##026
+Shoot my backpack! How could I forget that…
+@<027>
+Grab Backpack
+##027
+Ha, wouldn’t wanna go anywhere without you eh? Just gotta put this shoulder strap here...and voilà!
+@<025>
+Leave the house
+##019
+Well, I’ve never done this, but there’s a first time for everything I guess,
+here goes nothing! *sizzle sizzle*
+Hey, these came out pretty good, I’m impressed with myself/Oh man I burned these eggs good, maybe next time haha....
+Oh crap I’m gonna be late for school, I better get going!
+@<028 {EeventToLeave23}>
+Pack Breakfast
+@<029 {EeventToLeave21}>
+Grab Instrument
+@<030 {EeventToLeave22}>
+Pack Backpack
+##028
+Hmmm I won’t have time to eat this, but if I made an egg sandwich, I could keep it for later. Sounds like a plan!
+@<029 {EeventToLeave21}>
+Grab Instrument
+@<030 {EeventToLeave22}>
+Pack Backpack
+@<END chapter1.1.txt>
+Go to next chapter
+##END

@@ -1,0 +1,20 @@
+##001
+Brrrinngg brrriinnngg…
+Brrrinngg brrriinnngg…..
+{My alarm clock is ringing.}
+@ <002>
+Wake up
+@ <003 [Ewoke2]> <001 {Ewoke2} [Ewoke1]> <001 {Ewoke1}>
+Hit snooze
+##002
+You wake up!
+@<004>
+Cool //etc etc etc
+…
+##003
+As you reach for the snooze button for a third time, your hand hits a detonator you kept by your bed.
+The explosion blows you to little bits, and your parents are very sad.
+Try getting up a little earlier next time.
+END.
+@<001 {Ediedtoalarmclock}>
+Restart

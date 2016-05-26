@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TextAdventurePlus</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_start_screen">StartScreen</string>
+    <string name="clearButtonText">Clear All Data</string>
+    <string name="startButtontext">Start</string>
+    <string name="titleTextText">Text Adventure Plus</string>
+    <string name="subTitleTextText">By: Jerry Li, Daniel Classon, and Varun Pinto</string>
+</resources>
